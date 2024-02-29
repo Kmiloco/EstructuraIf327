@@ -6,3 +6,5 @@ b= parseFloat(prompt("Ingrese un valor"));
 c=a+b;
 
 alert("El valor de la suma es "+c);
+*/ 
+alert("esto lo agregue en remoto");
